@@ -2,7 +2,8 @@
 int main()
 {
 
-printf("hello");
+printf("second");
+printf("third");
 
     
 }
