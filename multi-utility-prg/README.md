@@ -1,3 +1,4 @@
 # multi utility project
 
-## Gross Salary
+## 💳 Gross Salary
+![salary](output/salary.png)
